@@ -31,6 +31,7 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "1.1.4",
+    "@types/jasmine": "^2.5.46",
     "angular-cli": "^1.0.0-beta.28.3",
     "codecov": "^2.1.0",
     "jasmine-core": "^2.5.2",
